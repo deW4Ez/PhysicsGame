@@ -39,6 +39,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Point
+    uniqueID: 3449890499
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
